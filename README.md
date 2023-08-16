@@ -36,7 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajan-barnwal&show_icons=true&locale=en" alt="rajan-barnwal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajan-barnwal&" alt="rajan-barnwal" /></p>
-## Get in touch :coffee:
+<h1>## Get in touch :coffee:</h1>
 
 - Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/rajan).
 - Your future life savior :stuck_out_tongue: on [Mail](https://barnwalrajan28jan@gmail.com)
