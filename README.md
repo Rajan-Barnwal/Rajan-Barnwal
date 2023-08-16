@@ -31,5 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajan-barnwal&show_icons=true&locale=en" alt="rajan-barnwal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajan-barnwal&" alt="rajan-barnwal" /></p>
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/jaiswaladi246/Rajan-Barnwal/blob/output/github-contribution-grid-snake.svg)
