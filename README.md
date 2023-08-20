@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajan" height="30" width="40" /></a>
+<a href="https://twitter.com/barnwalrajan281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rajan-kumar-barnwal-b0b113216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajan kumar barnwal" height="30" width="40" /></a>
 </p>
 
@@ -37,7 +37,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajan-barnwal&" alt="rajan-barnwal" /></p>
 <h1>## Get in touch :coffee:</h1>
 
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/rajan).
+- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/barnwalrajan281).
 - Your future life savior :stuck_out_tongue: on [Mail](https://barnwalrajan28jan@gmail.com)
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/rajan-kumar-barnwal-b0b113216/)
 - And of course GitHub you're already on (Recursion).
