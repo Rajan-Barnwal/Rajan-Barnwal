@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/barnwalrajan281" target="blank"><img src="https://img.shields.io/twitter/follow/rajan?logo=twitter&style=for-the-badge" alt="rajan" /></a> </p>
 
-- 🔭 I’m currently working on **GSOC**
+- 🔭 I’m currently Project Admin at **GSSOC'2024**
 
 - 🌱 I’m currently learning **Power Bi**
 
