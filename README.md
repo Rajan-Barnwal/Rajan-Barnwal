@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there :wave:,   I'm Rajan Barnwal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<<img align="right" alt="Coding" width="400"; src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<<img align="right" alt="Coding" width="400"; src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Rajan-Barnwal/count.svg" />
